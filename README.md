@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @babymiloTTH
 - 👀 I’m interested in công việc  liên qu đến ngôn C/C++;java.
-- 🌱 I’m currently learning ngôn ngữ C/C++ và Java.
+- 🌱 I’m currently learning ngôn ngữ C/C++ và Java ở trường cao đẳng tại Nhật.
 - 💞️ I’m looking to collaborate on các nền mạng xã .
 - 📫 Liên hệ với tôi qua email: bigcoca113@gmail.com
 
